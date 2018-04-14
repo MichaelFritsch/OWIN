@@ -1,0 +1,40 @@
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\obj\Debug\ImplicitGrant.csprojResolveAssemblyReference.cache
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\bin\ImplicitGrant.dll.config
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\bin\ImplicitGrant.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\bin\ImplicitGrant.pdb
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\bin\Constants.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\bin\Microsoft.Web.Infrastructure.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\bin\System.Web.Helpers.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\bin\System.Web.Mvc.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\bin\System.Web.Razor.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\bin\System.Web.WebPages.Deployment.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\bin\System.Web.WebPages.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\bin\System.Web.WebPages.Razor.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\bin\Constants.pdb
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\bin\System.Web.Helpers.xml
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\bin\System.Web.Mvc.xml
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\bin\System.Web.Razor.xml
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\bin\System.Web.WebPages.xml
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\bin\System.Web.WebPages.Deployment.xml
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\bin\System.Web.WebPages.Razor.xml
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\obj\Debug\ImplicitGrant.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ImplicitGrant\obj\Debug\ImplicitGrant.pdb
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\bin\ImplicitGrant.dll.config
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\bin\ImplicitGrant.dll
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\bin\ImplicitGrant.pdb
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\bin\Constants.dll
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\bin\Microsoft.Web.Infrastructure.dll
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\bin\System.Web.Helpers.dll
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\bin\System.Web.Razor.dll
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\bin\System.Web.WebPages.Deployment.dll
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\bin\System.Web.WebPages.dll
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\bin\System.Web.WebPages.Razor.dll
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\bin\Constants.pdb
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\bin\System.Web.Helpers.xml
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\bin\System.Web.Razor.xml
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\bin\System.Web.WebPages.xml
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\bin\System.Web.WebPages.Deployment.xml
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\bin\System.Web.WebPages.Razor.xml
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\obj\Debug\ImplicitGrant.csprojResolveAssemblyReference.cache
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\obj\Debug\ImplicitGrant.dll
+E:\_Projects\OWIN OAuth 2.0 Authorization Server\C#\ImplicitGrant\obj\Debug\ImplicitGrant.pdb
